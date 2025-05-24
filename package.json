@@ -1,0 +1,14 @@
+{
+  "name": "just-a-jest-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
